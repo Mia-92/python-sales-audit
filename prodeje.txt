@@ -1,0 +1,19 @@
+Notebook Pro;28000;IT
+MYS;450;IT
+Kava;120;Potraviny
+Monitor 24;5500;IT
+
+Plysak;300;Hracky
+Kladivo;chyba;Dilna
+Pastelky;150;Hracky
+Jablka;45;Potraviny
+LEGO Star Wars;1200;Hracky
+  
+Chleba;35;Potraviny
+Sroubovak;200;Dilna
+Sluchatka;1800;Elektro
+USB-C Kabel;NULL;IT
+Pivo;25;Potraviny
+Myska k PC;500;IT
+Kniha Python;600;Media
+Monitor 27;8900;IT
