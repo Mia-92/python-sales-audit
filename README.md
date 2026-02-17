@@ -7,4 +7,5 @@ Tento skript načítá data ze souboru `prodeje.txt`, čistí je a počítá cel
 * Ignoruje prázdné řádky v datech.
 * Pomocí `try-except` přeskočí záznamy, kde chybí cena nebo množství (např. hodnoty NULL).
 * Vypočítá obrat (cena * množství) a sečte ho podle kategorií do slovníku.
+* Vypočítá celkové prodeje a průměrné ceny prodejů v jednotlivých kategoriích.
 * Vypíše výsledky přehledně pod sebe.
