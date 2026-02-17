@@ -1,19 +1,19 @@
-Notebook Pro;28000;IT
-MYS;450;IT
-Kava;120;Potraviny
-Monitor 24;5500;IT
+Notebook Pro;28000;IT;1
+Myš;450;IT;3
+Káva;120;Potraviny;10
+Monitor 24;5500;IT;2
 
-Plysak;300;Hracky
-Kladivo;chyba;Dilna
-Pastelky;150;Hracky
-Jablka;45;Potraviny
-LEGO Star Wars;1200;Hracky
+Plyšák;300;Hračky;5
+Kladivo;chyba;Dílna;1
+Pastelky;150;Hračky;2
+Jablka;45;Potraviny;15
+LEGO Star Wars;1200;Hračky;1
   
-Chleba;35;Potraviny
-Sroubovak;200;Dilna
-Sluchatka;1800;Elektro
-USB-C Kabel;NULL;IT
-Pivo;25;Potraviny
-Myska k PC;500;IT
-Kniha Python;600;Media
-Monitor 27;8900;IT
+Chleba;35;Potraviny;4
+Šroubovák;200;Dílna;3
+Sluchátka;1800;Elektro;2
+USB-C Kabel;NULL;IT;5
+Pivo;25;Potraviny;20
+Myška k PC;500;IT;2
+Kniha Python;600;Média;1
+Monitor 27;8900;IT;1
